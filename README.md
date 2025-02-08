@@ -4,7 +4,8 @@ ___
 
 Currently do:
 - :feelsgood: Develop Games
-- :feelsgood: Study Linear Algebra 
+- :feelsgood: Study Linear Algebra
+- :feelsgood: Program graphics with OpenGL
 - :feelsgood: Drink Coffee 
 
 ___
